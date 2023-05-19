@@ -13,7 +13,8 @@ function sanitize($data)
 <div class="container">
     <div class=" justify-content-center  align-items-left ">
         <i>
-            <h1 style="text-align: center">Lista de Usuarios</h1>
+            <h1 style="text-align: center">Lista de Usuarios 2</h1>
+
 
         </i>
 
